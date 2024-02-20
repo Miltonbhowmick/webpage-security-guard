@@ -1,0 +1,33 @@
+21-Feb-24 00:11:32,60 root INFO Working for the website: https://perfectsounds.net/
+21-Feb-24 00:11:55,873 root INFO Checking for BY CLASS NAME> r-nav
+21-Feb-24 00:11:55,888 root INFO Locator loading is found properly
+21-Feb-24 00:11:55,888 root INFO Navbar is found
+21-Feb-24 00:11:55,888 root INFO https://perfectsounds.net/ is working well!
+21-Feb-24 00:11:55,888 root INFO Start time: 2024-02-21 00:11:32.060962
+21-Feb-24 00:11:55,888 root INFO End time: 2024-02-21 00:11:55.888681
+21-Feb-24 00:11:55,888 root INFO Total Duration: 0:00:23.827719
+21-Feb-24 00:11:55,888 root INFO Working for the website: https://webcontentkings.com/
+21-Feb-24 00:12:18,781 root INFO Checking for BY CLASS NAME> elementor-nav-menu
+21-Feb-24 00:12:18,805 root INFO Locator loading is found properly
+21-Feb-24 00:12:18,805 root INFO Navbar is found
+21-Feb-24 00:12:18,805 root INFO https://webcontentkings.com/ is working well!
+21-Feb-24 00:12:18,805 root INFO Start time: 2024-02-21 00:11:55.888681
+21-Feb-24 00:12:18,805 root INFO End time: 2024-02-21 00:12:18.805110
+21-Feb-24 00:12:18,805 root INFO Total Duration: 0:00:22.916429
+21-Feb-24 00:12:18,805 root INFO Working for the website: https://webcontentkings.co.uk/
+21-Feb-24 00:12:38,536 root INFO Checking for BY CLASS NAME> elementor-nav-menu
+21-Feb-24 00:12:38,551 root INFO Locator loading is found properly
+21-Feb-24 00:12:38,551 root INFO Navbar is found
+21-Feb-24 00:12:38,551 root INFO https://webcontentkings.co.uk/ is working well!
+21-Feb-24 00:12:38,551 root INFO Start time: 2024-02-21 00:12:18.805110
+21-Feb-24 00:12:38,551 root INFO End time: 2024-02-21 00:12:38.551449
+21-Feb-24 00:12:38,551 root INFO Total Duration: 0:00:19.746339
+21-Feb-24 00:12:38,551 root INFO Working for the website: https://webcontentkings.net/
+21-Feb-24 00:12:59,217 root INFO Checking for BY CLASS NAME> elementor-nav-menu
+21-Feb-24 00:12:59,237 root INFO Locator loading is found properly
+21-Feb-24 00:12:59,237 root INFO Navbar is found
+21-Feb-24 00:12:59,237 root INFO https://webcontentkings.net/ is working well!
+21-Feb-24 00:12:59,237 root INFO Start time: 2024-02-21 00:12:38.551449
+21-Feb-24 00:12:59,237 root INFO End time: 2024-02-21 00:12:59.237107
+21-Feb-24 00:12:59,237 root INFO Total Duration: 0:00:20.685658
+21-Feb-24 00:12:59,237 root INFO Working for the website: https://www.stockimagemart.com/
